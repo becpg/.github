@@ -1,11 +1,11 @@
-# beCPG: open source PLM for food, beverage and cosmetics
+<img src="hero.webp" alt="beCPG, the open source PLM for food, beverage and cosmetics: the regulatory view of a product, supplier park monitoring and the supplier portal on a phone">
 
 beCPG manages the whole product lifecycle for food, beverage and cosmetics manufacturers:
 formulation, nutrition and labelling, specifications, packaging and eco-design, quality,
 new product development projects, supplier collaboration and regulatory compliance.
 More than 120 manufacturers worldwide use it, as a managed cloud service or self-hosted.
 
-[Website](https://www.becpg.net) · [Documentation](https://docs.becpg.fr) · [Request a demo](https://www.becpg.net/contact-us/)
+[Website](https://www.becpg.net) · [Documentation](https://www.becpg.net/docs/en/) · [Free trial](https://www.becpg.net/contact-us/#trial) · [Book a demo](https://www.becpg.net/contact-us/#demo)
 
 ## Repositories
 
